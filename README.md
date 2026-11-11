@@ -16,6 +16,11 @@ distributed LISFLOOD. All three are driven by the same 0.05° CHIRPS rainfall
 and the same Penman-Monteith evaporative demand, so that what separates them is
 structure and not input.
 
+<p align="center">
+  <img src="docs/workflow.png" width="780"
+       alt="Seven steps: the shared CHIRPS and ERA5-Land forcing; the three models GR4J, HEC-HMS and LISFLOOD; harmonization to commensurable daily discharge at seven gauges; adaptive convex weighting fitted on 1997-2005 and frozen; the guarded quantile mapping and the Bayesian envelope; the final ensemble with its 90 % interval; and the evaluation.">
+</p>
+
 ### Workflow
 
 - **Benchmark.** Thirty-two combination configurations from twelve families,
@@ -63,6 +68,8 @@ structure and not input.
 │   ├── tables/                        every table of the paper and its supplement
 │   ├── series/                        the daily series
 │   └── figures/                       written by the figure scripts
+├── docs/
+│   └── workflow.png                   the workflow figure of the paper (Fig. 4)
 ├── requirements.txt
 ├── CITATION.cff
 ├── LICENSE
