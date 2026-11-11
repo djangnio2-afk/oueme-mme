@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Ouémé multi-model ensemble: code and derived data"
+message: >-
+  If you use this software or the derived data, please cite both the paper and
+  this archived release.
+type: software
+authors:
+  - family-names: Djangni
+    given-names: Octave
+    affiliation: National Water Institute (INE/UAC), University of Abomey-Calavi, Benin
+  - family-names: Bossa
+    given-names: Yaovi Aymar
+    affiliation: National Water Institute (INE/UAC), University of Abomey-Calavi, Benin
+  - family-names: Hounkpè
+    given-names: Jean
+    affiliation: National Water Institute (INE/UAC), University of Abomey-Calavi, Benin
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/djangnio2-afk/oueme-mme
+# doi: 10.5281/zenodo.XXXXXXX     <- fill in once the deposit is published
+preferred-citation:
+  type: article
+  title: "Constrained multi-model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin"
+  authors:
+    - family-names: Djangni
+      given-names: Octave
+    - family-names: Bossa
+      given-names: Yaovi Aymar
+    - family-names: Hounkpè
+      given-names: Jean
+  journal: Hydrology and Earth System Sciences
+  year: 2026

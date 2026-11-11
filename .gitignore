@@ -1,0 +1,9 @@
+results/figures/*.png
+results/figures/*.pdf
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# the observed discharge never enters the history: it belongs to the
+# Direction Générale de l'Eau of Benin
+observations_RESTREINT/
