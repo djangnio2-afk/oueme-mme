@@ -76,25 +76,6 @@ structure and not input.
 └── README.md
 ```
 
-Each result file and where it appears in the paper:
-
-| file | in the paper |
-|---|---|
-| `tables/method_benchmark.csv`, `tables/method_benchmark_summary.csv` | Fig. 7, Sect. 3.2 |
-| `tables/retained_weights.csv` | Table 7 |
-| `tables/performance_by_gauge.csv` | Tables 5, 6 and 8 |
-| `tables/weights_by_scheme.csv` | Fig. 8 |
-| `tables/significance_bootstrap.csv` | Sect. 3.5 |
-| `tables/transferability_loso.csv` | Fig. 18 |
-| `tables/reversed_split.csv` | the split-sample run backwards |
-| `tables/flood_quantiles.csv`, `tables/flood_distribution_parameters.csv` | Fig. 20, Sect. 3.8 |
-| `tables/ensemble_summary.csv` | the configuration retained at each gauge |
-| `series/ensemble_daily.csv` | the delivered product, members and envelope, both periods |
-| `series/ensemble_test.csv` | its test-period slice, with the best single member |
-| `series/benchmark_test.csv` | the thirty-two configurations, day by day |
-
-## Data
-
 | Dataset | Role | Access |
 |---|---|---|
 | Member simulations | the three daily series at the seven gauges | in `data/` |
