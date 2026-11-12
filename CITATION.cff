@@ -17,7 +17,7 @@ authors:
 version: 1.0.0
 license: MIT
 repository-code: https://github.com/djangnio2-afk/oueme-mme
-# doi: 10.5281/zenodo.XXXXXXX     <- fill in once the deposit is published
+doi: 10.5281/zenodo.24150104
 preferred-citation:
   type: article
   title: "Constrained multi-model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin"
