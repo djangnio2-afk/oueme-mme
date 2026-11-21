@@ -119,7 +119,7 @@ release:
 
 ```bibtex
 @software{djangni_oueme_mme,
-  author    = {Djangni, Octave and Bossa, Yaovi Aymar and Hounkp{\`e}, Jean},
+  author    = {Djangni, Octave and Bossa, Yaovi Aymar and Hounkpe, Jean},
   title     = {{Code and derived data for: A Multi-Model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin}},
   year      = {2026},
   publisher = {Zenodo},
