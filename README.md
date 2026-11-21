@@ -1,8 +1,8 @@
-# Constrained multi-model ensemble for streamflow and flood-peak simulation in the Ouémé River Basin
+# A Multi-Model ensemble for streamflow and flood-peak simulation in the Ouémé River Basin
 
 Code, derived data and results accompanying the manuscript:
 
-> Djangni, O., Bossa, Y. A., and Hounkpè, J.: **Constrained multi-model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin**, submitted to *Hydrology
+> Djangni, O., Bossa, Y. A., and Hounkpè, J.: **A Multi-Model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin**, submitted to *Hydrology
 > and Earth System Sciences*, 2026.
 
 ## Overview
@@ -120,7 +120,7 @@ release:
 ```bibtex
 @software{djangni_oueme_mme,
   author    = {Djangni, Octave and Bossa, Yaovi Aymar and Hounkp{\`e}, Jean},
-  title     = {{Code and derived data for: Constrained multi-model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin}},
+  title     = {{Code and derived data for: A Multi-Model ensemble for streamflow and flood-peak simulation in a data-scarce West African basin, Benin}},
   year      = {2026},
   publisher = {Zenodo},
   version   = {1.0.0},
